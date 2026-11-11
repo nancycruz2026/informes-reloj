@@ -1,7 +1,109 @@
 {
   "fecha": "2026-11-11",
   "colaborador": "Pasantín",
-  "titulo": "Parte de muestra",
-  "texto": "Muestra ficticia. No es un caso real. Pasantín deja el parte del despacho imaginario. No hay juzgado, ni cliente, ni plazo verdadero. Solo sirve para probar la descarga.",
-  "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/informe.opus"
+  "titulo": "Informe completo de prueba",
+  "texto": "Muestra ficticia. No es un caso real. Informe de Pasantín, miércoles once de noviembre de dos mil veintiséis. Todo lo que sigue es imaginario y no corresponde a persona, predio ni expediente alguno.\n\nEn el amparo indirecto de muestra, el juez de distrito ficticio tuvo por recibida la ampliación. La quejosa imaginaria pide que se suspenda un acto de autoridad que nunca ocurrió. El informe justificado de la autoridad señalada, también inventada, niega el acto y acompaña copias que no existen. El plazo de la audiencia incidental corre en este ejercicio y no hay tercero interesado.\n\nLa parte quejosa ofreció tres pruebas de papel: una constancia, un plano sin escala y la declaración de un testigo imaginario. Ninguna se desahoga hoy. El proyecto de acuerdo, todavía no firmado, propone desechar la ampliación por extemporánea y reservar la suspensión. No hay fecha de sentencia.\n\nEn el juicio de amparo directo de muestra, el tribunal colegiado ficticio tuvo por rendido el informe. El acto reclamado es una sentencia laboral imaginaria. La quejosa dice que se omitió valorar una prueba. La autoridad responsable, inventada, sostiene que la sentencia está fundada. No hay proyecto y no hay lista.\n\nEn materia agraria, el tribunal unitario ficticio de la muestra abrió el periodo de alegatos en un juicio de nulidad de un contrato de cesión de derechos que nadie firmó. El actor imaginario dice que el predio El Sauce no existe en el padrón y que la asamblea nunca se celebró. La demandada imaginaria ofrece el acta, también inventada, y pide que se declare la caducidad.\n\nEl mismo tribunal tuvo por contestada la demanda en el juicio de restitución de un solar urbano que no está en mapa alguno. Falta emplazar a dos comuneros ficticios. El término corre a partir de una publicación que no se hizo. No hay embargo ni lanzamiento.\n\nEn el expediente de muestra sobre reconocimiento de parcelas, la autoridad agraria imaginaria remitió el plano y el censo. Ambos documentos son de este ejercicio y no identifican a persona real. El actor pide una medida para que no se inscriba un traslado. El acuerdo, sin firma, cita a una audiencia que no está en el calendario.\n\nEn el recurso de revisión agraria de muestra, la sala ficticia tuvo por admitido el escrito. El recurrente imaginario impugna un acuerdo que ordenó reponer un emplazamiento. Pide que se revoque y que se tenga por perdido el derecho de la parte contraria, que también es inventada. No hay ponencia ni fecha de sesión.\n\nQueda un oficio imaginario del registro agrario nacional de la muestra. Confirma que la parcela cero cero uno no tiene titular y que la anotación preventiva vence en un calendario que no existe. Nadie debe acudir a una oficina. El parte de mañana, si esta muestra se repitiera, repetiría que todo es ficción.\n\nNo hay audiencias reales, no hay plazos que corran fuera de este relato y no hay documentos que deban firmarse. Si falta una pieza, la parte siguiente la trae. Fin de la muestra.",
+  "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte1.opus",
+  "partes": [
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte1.opus",
+      "bytes": 20490,
+      "segundos": 13
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte2.opus",
+      "bytes": 19324,
+      "segundos": 12
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte3.opus",
+      "bytes": 13462,
+      "segundos": 9
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte4.opus",
+      "bytes": 10479,
+      "segundos": 7
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte5.opus",
+      "bytes": 16236,
+      "segundos": 11
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte6.opus",
+      "bytes": 14701,
+      "segundos": 9
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte7.opus",
+      "bytes": 17189,
+      "segundos": 11
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte8.opus",
+      "bytes": 17804,
+      "segundos": 12
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte9.opus",
+      "bytes": 18084,
+      "segundos": 12
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte10.opus",
+      "bytes": 11586,
+      "segundos": 7
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte11.opus",
+      "bytes": 11213,
+      "segundos": 7
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte12.opus",
+      "bytes": 16922,
+      "segundos": 11
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte13.opus",
+      "bytes": 9768,
+      "segundos": 6
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte14.opus",
+      "bytes": 20442,
+      "segundos": 13
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte15.opus",
+      "bytes": 14302,
+      "segundos": 9
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte16.opus",
+      "bytes": 18235,
+      "segundos": 12
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte17.opus",
+      "bytes": 20687,
+      "segundos": 13
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte18.opus",
+      "bytes": 16110,
+      "segundos": 10
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte19.opus",
+      "bytes": 20030,
+      "segundos": 13
+    },
+    {
+      "audio": "https://api.github.com/repos/nancycruz2026/informes-reloj/contents/parte20.opus",
+      "bytes": 7699,
+      "segundos": 5
+    }
+  ]
 }
